@@ -1,0 +1,4 @@
+function removeProperty(obj, key){
+delete obj.key
+}
+removeProperty(obj, "name");
